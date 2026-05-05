@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adi_ityaadi?style=flat-square&color=1DA1F2&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=adi__ityadi)
 [![Linkedin: Aditya](https://img.shields.io/badge/-aditya?style=flat-square&logo=Linkedin&color=0072b1&logoColor=white&label=/adityaaggarwal&link=https://www.linkedin.com/in/adityaaggarwal/)](https://www.linkedin.com/in/adityaaggarwal/)
-[![Entrepreneur works](https://img.shields.io/badge/-aditya?style=flat-square&logo=Google-Chrome&color=green&logoColor=white&label=Personal%20Blog&link=https://www.cybersapien.xyz/)](https://www.cybersapien.xyz/)
+[![Entrepreneur works](https://img.shields.io/badge/-aditya?style=flat-square&logo=Google-Chrome&color=green&logoColor=white&label=My%20Projects&link=https://www.cybersapien.xyz/)](https://www.cybersapien.xyz/)
 [![Email](https://img.shields.io/badge/-aditya?style=flat-square&logo=gmail&color=yellow&logoColor=white&label=email&link=mailto:social_connect@cybersapien.xyz)](mailto:social_connect@cybersapien.xyz)
 ![GitHub User's stars](https://img.shields.io/github/stars/the-cybersapien?style=flat-square)
 ![](https://komarev.com/ghpvc/?username=the-cybersapien&style=flat-square)
